@@ -1,0 +1,19 @@
+[
+  {
+    "model": "employees.EmployeeModel",
+    "pk": 1,
+    "fields": {
+      "name": "Marco",
+      "lname": "Tonti"
+    }
+  },
+  {
+    "model": "employees.EmployeeModel",
+    "pk": 2,
+    "fields": {
+      "name": "Davide",
+      "lname": "Tonti"
+    }
+  }
+]
+
